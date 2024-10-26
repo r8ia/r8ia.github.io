@@ -1,0 +1,15 @@
+.BobaMessage{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 35px;
+}
+
+.Signoff{
+    font-family: "Brush Script MT";
+    font-size: 25px;
+}
+
+pre{
+    font-family: "Brush Script MT";
+    font-size: 25px;
+}
